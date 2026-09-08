@@ -1,3 +1,9 @@
+# Deploying a Scalable ML Pipeline with FastAPI
+
+GitHub repository: https://github.com/Ambrya/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
+
+This project trains a Random Forest classifier on Census data, evaluates its performance across categorical data slices, and serves predictions through a FastAPI application.
+
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
 
 # Environment Set up (pip or conda)
